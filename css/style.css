@@ -37,3 +37,22 @@ div, section{
   float: left;
   width: 50%;
 }
+
+nav{
+  background-color: green;
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li{
+  /* display: inline-block; */
+  width: 100px;
+  height: 32px;
+  line-height: 32px;
+  font-size: 20px;
+  text-align: center;
+  float: right;
+}
